@@ -1,0 +1,11 @@
+[package]
+name = "apollo"
+version = "0.1.0"
+authors = ["Kai Sellgren <kaisellgren@gmail.com>"]
+
+[dependencies]
+glium = "*"
+num = "*"
+image = "*"
+xml-rs = "*"
+chrono = "*"
